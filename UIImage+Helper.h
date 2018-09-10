@@ -6,7 +6,8 @@
 //  Copyright (c) 2014年 pljhonglu. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <UIKit/UIKit.h>  
+//haha 
 
 @interface UIImage (Helper)
 
